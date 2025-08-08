@@ -33,7 +33,18 @@ This repository showcases a complete SQL-based backend architecture for a **Hype
 | Notifications        | Send scheduled marketing reminders                   |
 
 ---
+## 🖼️ Application Screenshots
 
+![Screenshot](./Screenshots/img_01.png)
+![Screenshot](./Screenshots/img-02.png)
+
+
+
+
+
+
+
+---
 ## 📊 Entity-Relationship Diagram (ERD)
 
 ![ER Diagram](./ERD.png)
